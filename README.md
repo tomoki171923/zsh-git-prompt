@@ -6,11 +6,11 @@ https://github.com/olivierverdier/zsh-git-prompt
 
 ## set
 execute the following commands.
-<pre><code>
+<pre>
 chsh -s /bin/zsh
 brew install zsh-git-prompt
 vi ~/.zshrc
-</code></pre>
+</pre>
 add the following into .zshrc file.
 <pre><code>
 source "/usr/local/opt/zsh-git-prompt/zshrc.sh"
@@ -19,6 +19,6 @@ PROMPT='%10F%B%n@%m%b%f:%12F%B%c%b%f%f$(git_super_status) %# '
 
 ## reflect
 execute the following command.
-<pre><code>
-% source ~/.zshrc
-</code></pre>
+<pre>
+source ~/.zshrc
+</pre>
