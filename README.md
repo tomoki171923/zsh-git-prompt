@@ -1,8 +1,7 @@
 # zsh-git-prompt
 
 
-
-using this repository.
+Setup zsh-git-prompt using this repository.
 
 https://github.com/olivierverdier/zsh-git-prompt
 
