@@ -1,4 +1,6 @@
-# setting_zsh-git-prompt
+# zsh-git-prompt
+
+
 
 using this repository.
 
